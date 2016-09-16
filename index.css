@@ -205,8 +205,8 @@ body{
 
 .cat {
     position: absolute;
-    top: 80%;
-    left: 80%;
+    top: 95%;
+    left: 69%;
     transform: translate(-50%, -50%);
     width: 100px;
     z-index:99999;
