@@ -1,2 +1,2 @@
 # css-creature-art-animation
-creating css animation people inspired by my artwork (drawing)
+Creating css animation people inspired by my artwork (drawing)
